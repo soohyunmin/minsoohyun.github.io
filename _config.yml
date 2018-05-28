@@ -1,8 +1,7 @@
 # Menus
 menu: Soohyun
     Home: Hi
-    # Delete this row if you don't want categories in your header nav bar
-    Categories:
+    Categories: Me
     About: /about/index.html
 
 # Customize
