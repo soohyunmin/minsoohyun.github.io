@@ -1,8 +1,8 @@
 # Menus
 menu: Soohyun
-    Home: Hi
-    Categories: Me
-    About: /about/index.html
+Home: Hi
+Categories: Me
+About: /about/index.html
 
 # Customize
 customize:
